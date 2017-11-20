@@ -11,4 +11,5 @@ T. M. Pham, T. C. Ngo and H. Oh, "A Group Dynamic Source Routing protocol (GDSR)
 
 
 If you use our code in your research and/or software, we would appreciate citations to the following paper:
+
 T. M. Pham, T. C. Ngo and H. Oh, "A Group Dynamic Source Routing protocol (GDSR) using the passive clustering for wireless mobile ad hoc networks," 2012 The 11th Annual Mediterranean Ad Hoc Networking Workshop (Med-Hoc-Net), Ayia Napa, 2012, pp. 47-54.
