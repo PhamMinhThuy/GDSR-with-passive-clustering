@@ -1,5 +1,4 @@
-# GDSR-with-passive-clustering
-Guidelines for the C++ implementation of GDSR routing protocol 
+# Guidelines for the C++ implementation of GDSR routing protocol with passive clustering
 
 * DATE OF CURRENT VERSION (V1.0): Nov. 2011 
 * CONTENTS: C++ implementation of GDSR routing protocol with passive clustering
