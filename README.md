@@ -6,7 +6,7 @@
 T. M. Pham, T. C. Ngo and H. Oh, "A Group Dynamic Source Routing protocol (GDSR) using the passive clustering for wireless mobile ad hoc networks," 2012 The 11th Annual Mediterranean Ad Hoc Networking Workshop (Med-Hoc-Net), Ayia Napa, 2012, pp. 47-54.
 
 * NOTICE: The current code was built and debugged on ns-2.34.
-* BUG REPORTS: If you find any bug, please send your feedback to m.phamminhthuy@gmail.com.
+* BUG REPORTS: If you find any bug, please send your feedback to m.phamminhthuy@gmail.com or via the website https://goo.gl/urop2o.
 * LICENSE: The code is licensed under the GPLv2.
 
 
